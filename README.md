@@ -1,4 +1,3 @@
-# Google-advanced-data-analytics-capstone
 # Google-advanced-data-analytics-capstone: Salifort Motors Employee Retention Project
 
 This repository contains the end-to-end capstone project for the Google Advanced Data Analytics Professional Certificate, focusing on exploratory data analysis, predictive modeling, machine learning classification, and business insights to address employee turnover at Salifort Motors.
